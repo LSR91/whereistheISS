@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/whereistheiss-app/static/css/main.2a6dcf76.chunk.css",
+    "main.js": "/whereistheiss-app/static/js/main.33bf4791.chunk.js",
+    "main.js.map": "/whereistheiss-app/static/js/main.33bf4791.chunk.js.map",
+    "runtime-main.js": "/whereistheiss-app/static/js/runtime-main.57bb0bdc.js",
+    "runtime-main.js.map": "/whereistheiss-app/static/js/runtime-main.57bb0bdc.js.map",
+    "static/js/2.094bf630.chunk.js": "/whereistheiss-app/static/js/2.094bf630.chunk.js",
+    "static/js/2.094bf630.chunk.js.map": "/whereistheiss-app/static/js/2.094bf630.chunk.js.map",
+    "index.html": "/whereistheiss-app/index.html",
+    "precache-manifest.ca263481779c2c1a261e4d0db4799b05.js": "/whereistheiss-app/precache-manifest.ca263481779c2c1a261e4d0db4799b05.js",
+    "service-worker.js": "/whereistheiss-app/service-worker.js",
+    "static/css/main.2a6dcf76.chunk.css.map": "/whereistheiss-app/static/css/main.2a6dcf76.chunk.css.map",
+    "static/js/2.094bf630.chunk.js.LICENSE.txt": "/whereistheiss-app/static/js/2.094bf630.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/whereistheiss-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57bb0bdc.js",
+    "static/js/2.094bf630.chunk.js",
+    "static/css/main.2a6dcf76.chunk.css",
+    "static/js/main.33bf4791.chunk.js"
+  ]
+}
