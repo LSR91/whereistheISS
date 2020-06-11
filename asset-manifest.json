@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/whereistheISS/static/css/main.2a6dcf76.chunk.css",
-    "main.js": "/whereistheISS/static/js/main.6ed2cb6b.chunk.js",
-    "main.js.map": "/whereistheISS/static/js/main.6ed2cb6b.chunk.js.map",
+    "main.js": "/whereistheISS/static/js/main.e5b4a3ef.chunk.js",
+    "main.js.map": "/whereistheISS/static/js/main.e5b4a3ef.chunk.js.map",
     "runtime-main.js": "/whereistheISS/static/js/runtime-main.843ddba1.js",
     "runtime-main.js.map": "/whereistheISS/static/js/runtime-main.843ddba1.js.map",
     "static/js/2.094bf630.chunk.js": "/whereistheISS/static/js/2.094bf630.chunk.js",
     "static/js/2.094bf630.chunk.js.map": "/whereistheISS/static/js/2.094bf630.chunk.js.map",
     "index.html": "/whereistheISS/index.html",
-    "precache-manifest.91d296bf61db476fddb0e2f6d692c432.js": "/whereistheISS/precache-manifest.91d296bf61db476fddb0e2f6d692c432.js",
+    "precache-manifest.d711105828404d05370ca836ee2f594f.js": "/whereistheISS/precache-manifest.d711105828404d05370ca836ee2f594f.js",
     "service-worker.js": "/whereistheISS/service-worker.js",
     "static/css/main.2a6dcf76.chunk.css.map": "/whereistheISS/static/css/main.2a6dcf76.chunk.css.map",
-    "static/js/2.094bf630.chunk.js.LICENSE.txt": "/whereistheISS/static/js/2.094bf630.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/whereistheISS/static/media/logo.5d5d9eef.svg"
+    "static/js/2.094bf630.chunk.js.LICENSE.txt": "/whereistheISS/static/js/2.094bf630.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.843ddba1.js",
     "static/js/2.094bf630.chunk.js",
     "static/css/main.2a6dcf76.chunk.css",
-    "static/js/main.6ed2cb6b.chunk.js"
+    "static/js/main.e5b4a3ef.chunk.js"
   ]
 }

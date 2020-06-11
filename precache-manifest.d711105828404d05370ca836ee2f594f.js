@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0563b5dca998f58ff53915739d879a8e",
+    "revision": "5e3e41c5a2c42b271c7dbc5d911de5a8",
     "url": "/whereistheISS/index.html"
   },
   {
-    "revision": "c4ea76cb77d0965236d6",
+    "revision": "d5b1e63989d2e9851bc4",
     "url": "/whereistheISS/static/css/main.2a6dcf76.chunk.css"
   },
   {
@@ -16,15 +16,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/whereistheISS/static/js/2.094bf630.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c4ea76cb77d0965236d6",
-    "url": "/whereistheISS/static/js/main.6ed2cb6b.chunk.js"
+    "revision": "d5b1e63989d2e9851bc4",
+    "url": "/whereistheISS/static/js/main.e5b4a3ef.chunk.js"
   },
   {
     "revision": "d3cf72c3bf14c8437f7b",
     "url": "/whereistheISS/static/js/runtime-main.843ddba1.js"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/whereistheISS/static/media/logo.5d5d9eef.svg"
   }
 ]);
